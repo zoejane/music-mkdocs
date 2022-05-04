@@ -1,3 +1,10 @@
 site_name: My Docs
 theme:
   name: material
+nav:
+    - Home: index.md
+    - Play: play.md
+    - Piano: 
+        - PianoNotes: piano1.md
+        - Practice: piano1.md
+    - Sing: piano1.md
