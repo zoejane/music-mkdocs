@@ -1,4 +1,6 @@
-# Welcome to MkDocs
+# Welcome to Music
+
+记录我的音乐生活
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 

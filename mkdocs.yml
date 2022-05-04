@@ -1,10 +1,14 @@
-site_name: My Docs
+# Repository
+repo_name: zoejane/music-mkdocs
+repo_url: https://github.com/zoejane/music-mkdocs
+
+site_name: Music
 theme:
   name: material
 nav:
     - Home: index.md
-    - Play: play.md
     - Piano: 
-        - PianoNotes: piano1.md
-        - Practice: piano1.md
-    - Sing: piano1.md
+        - 笔记: pianonotes.md
+        - 练习: pianopractice.md
+    - Sing: sing.md
+    - Playground: playground.md
