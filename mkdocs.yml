@@ -2,6 +2,8 @@
 repo_name: zoejane/music-mkdocs
 repo_url: https://github.com/zoejane/music-mkdocs
 
+edit_uri: edit/main/docs/
+
 site_name: Music
 theme:
   name: material
